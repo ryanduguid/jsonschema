@@ -1,11 +1,11 @@
 # JSON Schema Test Suite
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat&labelColor=000000&color=66023C)](https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Financial Contributors on Open Collective](https://opencollective.com/json-schema/all/badge.svg?label=financial+contributors)](https://opencollective.com/json-schema)
 
-[![DOI](https://zenodo.org/badge/5952934.svg)](https://zenodo.org/badge/latestdoi/5952934)
-[![Build Status](https://github.com/json-schema-org/JSON-Schema-Test-Suite/workflows/Test%20Suite%20Sanity%20Checking/badge.svg)](https://github.com/json-schema-org/JSON-Schema-Test-Suite/actions?query=workflow%3A%22Test+Suite+Sanity+Checking%22)
+[![DOI](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fzenodo.org%2Fbadge%2F5952934.svg&query=normalize-space%28%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D%29&label=DOI&style=flat&labelColor=000000&color=66023C)](https://zenodo.org/badge/latestdoi/5952934)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/json-schema-org/JSON-Schema-Test-Suite/ci.yml?label=Test%20Suite%20Sanity%20Checking&style=flat&labelColor=000000)](https://github.com/json-schema-org/JSON-Schema-Test-Suite/actions?query=workflow%3A%22Test+Suite+Sanity+Checking%22)
 
 This repository contains a set of JSON objects that implementers of JSON Schema validation libraries can use to test their validators.
 The test suite repository exists to verify specified behavior defined by the JSON Schema specification and should not be confused with a style guide. It is not intended to demonstrate how schemas ought to be written. Tests may appear unusual or unintuitive, but they exist solely to exercise behavior prescribed by the specification.
