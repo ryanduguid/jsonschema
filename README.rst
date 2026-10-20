@@ -4,19 +4,19 @@ jsonschema
 
 |PyPI| |Pythons| |CI| |ReadTheDocs| |Precommit| |Zenodo|
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/jsonschema.svg
+.. |PyPI| image:: https://img.shields.io/pypi/v/jsonschema.svg?style=flat&labelColor=000000&color=66023C
    :alt: PyPI version
    :target: https://pypi.org/project/jsonschema/
 
-.. |Pythons| image:: https://img.shields.io/pypi/pyversions/jsonschema.svg
+.. |Pythons| image:: https://img.shields.io/pypi/pyversions/jsonschema.svg?style=flat&labelColor=000000&color=66023C
    :alt: Supported Python versions
    :target: https://pypi.org/project/jsonschema/
 
-.. |CI| image:: https://github.com/python-jsonschema/jsonschema/workflows/CI/badge.svg
+.. |CI| image:: https://img.shields.io/github/actions/workflow/status/python-jsonschema/jsonschema/ci.yml?label=CI&style=flat&labelColor=000000
   :alt: Build status
   :target: https://github.com/python-jsonschema/jsonschema/actions?query=workflow%3ACI
 
-.. |ReadTheDocs| image:: https://readthedocs.org/projects/python-jsonschema/badge/?version=stable&style=flat
+.. |ReadTheDocs| image:: https://img.shields.io/readthedocs/python-jsonschema/stable?style=flat&labelColor=000000
    :alt: ReadTheDocs status
    :target: https://python-jsonschema.readthedocs.io/en/stable/
 
@@ -24,7 +24,7 @@ jsonschema
    :alt: pre-commit.ci status
    :target: https://results.pre-commit.ci/latest/github/python-jsonschema/jsonschema/main
 
-.. |Zenodo| image:: https://zenodo.org/badge/3072629.svg
+.. |Zenodo| image:: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fzenodo.org%2Fbadge%2F3072629.svg&query=normalize-space%28%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D%29&label=DOI&style=flat&labelColor=000000&color=66023C
    :alt: Zenodo DOI
    :target: https://zenodo.org/badge/latestdoi/3072629
 
