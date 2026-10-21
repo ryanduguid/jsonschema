@@ -1,8 +1,8 @@
 # JSON Schema Test Suite
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat&labelColor=000000&color=66023C)](https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Financial Contributors on Open Collective](https://opencollective.com/json-schema/all/badge.svg?label=financial+contributors)](https://opencollective.com/json-schema)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/repo%20status-Active-66023C?style=flat&labelColor=000000)](https://www.repostatus.org/#active)
+[![Financial Contributors on Open Collective](https://img.shields.io/opencollective/all/json-schema?style=flat&labelColor=000000&color=66023C&label=financial%20contributors)](https://opencollective.com/json-schema)
 
 [![DOI](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fzenodo.org%2Fbadge%2F5952934.svg&query=normalize-space%28%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D%29&label=DOI&style=flat&labelColor=000000&color=66023C)](https://zenodo.org/badge/latestdoi/5952934)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/json-schema-org/JSON-Schema-Test-Suite/ci.yml?label=Test%20Suite%20Sanity%20Checking&style=flat&labelColor=000000)](https://github.com/json-schema-org/JSON-Schema-Test-Suite/actions?query=workflow%3A%22Test+Suite+Sanity+Checking%22)
